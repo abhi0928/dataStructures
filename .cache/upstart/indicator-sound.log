@@ -1,0 +1,2 @@
+
+(process:6754): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.460022 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'

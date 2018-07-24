@@ -1,0 +1,8 @@
+[8299:8318:0724/212530.563427:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.563578:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.563681:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.563801:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.944798:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.945009:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.945269:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
+[8299:8318:0724/212530.945549:ERROR:service_manager_context.cc(258)] Attempting to run unsupported native service: /opt/google/chrome/chrome_renderer.service
