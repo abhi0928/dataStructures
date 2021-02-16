@@ -16,6 +16,7 @@ int main()
    char ans,ch;
    
    p("\nEnter the size of the queue: ");
+   p("bhosdiwale! ye kya bawaseer bna diye ho be")
    s("%d",&size);
    int queue[size];
    front=-1,rear=-1;
